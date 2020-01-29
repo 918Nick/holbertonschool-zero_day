@@ -1,6 +1,5 @@
 # Learning To Use Vi
-
-*Learning Basic Commands In Vi Like:
+Learning Basic Commands In Vi Like:
 0. Inserting
 1. Cutting
 2. Pasting
